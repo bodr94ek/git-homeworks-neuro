@@ -1,0 +1,25 @@
+[33mcommit 71ae519d5b4082cbd4923c79dbf93e9e53467e77[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: bodr94ek <m.ryazantsev@SAKHALIN.GOV.RU>
+Date:   Thu May 12 09:47:47 2022 +1100
+
+    Revert "CSS Variables for common colors"
+    
+    This reverts commit 3637f70603bf9e4662d4fd9a3b1c0678811f0b8e.
+
+[33mcommit 3637f70603bf9e4662d4fd9a3b1c0678811f0b8e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vasya Pupkin <vasya@localhost>
+Date:   Tue Oct 30 01:54:52 2018 +0300
+
+    CSS Variables for common colors
+
+[33mcommit 03e67a835a49b1d5ad7f6e55e6f5237c93faf52a[m
+Author: Vasya Pupkin <vasya@localhost>
+Date:   Tue Oct 30 01:50:33 2018 +0300
+
+    Code cleanup
+
+[33mcommit 6c20e1ac8211562db2d0fe6782447cf7996dda98[m
+Author: Vasya Pupkin <vasya@localhost>
+Date:   Tue Oct 30 01:48:05 2018 +0300
+
+    Initial commit
